@@ -1,8 +1,8 @@
 import cv2
 import csv
 
-IMG = "box.JPG"  # キャリブ画像
-OUT = "coords.csv"  # 出力先
+IMG = "kadai1/box.JPG"  # キャリブ画像
+OUT = "kadai1/coords.csv"  # 出力先
 points = []  # 応答配列
 
 
